@@ -124,17 +124,17 @@ https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL NEWS" tvg-logo="https://globalnews.ca/wp-content/uploads/2018/03/new_square-e1647018225390.png"  group-title="ONLINE--ENGLISH TV",GLOBAL NEWS (CA)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ONLINE--ENGLISH TV",HALLMARK (US)
+#EXTINF:-1 tvg-logo=" " group-title="Movies",HALLMARK (US)
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-logo=" " group-title="ONLINE--ENGLISH TV",HALLMARK DRAMA (US)
+#EXTINF:-1 tvg-logo=" " group-title="Movies",HALLMARK DRAMA (US)
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-logo=" " group-title="ONLINE--ENGLISH TV",HALLMARK MOVIES (US)
+#EXTINF:-1 tvg-logo=" " group-title="Movies",HALLMARK MOVIES (US)
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#EXTINF:-1 tvg-id="HORROR FY HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy.jpg"  group-title="ONLINE--ENGLISH TV",HORROR FY HD (US)
+#EXTINF:-1 tvg-id="HORROR FY HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy.jpg"  group-title="Movies",HORROR FY HD (US)
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="ONLINE--ENGLISH TV",INDIA TODAY (IN)
+#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="News",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/img/header.png"  group-title="ONLINE--ENGLISH TV",KIDSFLIX (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -149,9 +149,9 @@ https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="http://sgwhtcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="ONLINE--ENGLISH TV",SONY SPORTS TEN 5 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="ONLINE--ENGLISH TV",SONY BBC EARTH HD (IN)
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",SONY BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_masthead_logo.png" group-title="ONLINE--ENGLISH TV",SONY PIX HD (IN)
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_masthead_logo.png" group-title="Movies",SONY PIX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="TOON GOOGLES" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png"  group-title="ONLINE--ENGLISH TV",TOON GOOGLES (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
@@ -169,15 +169,15 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE--LINEAR TV",TBD (US)
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/action_holloywood_circle_1000x1000.png"   group-title="ONLINE--SAMSUNG TV PLUS",ACTION  HOLLYWOOD MOVIES (UK)
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/action_holloywood_circle_1000x1000.png"   group-title="Movies",ACTION  HOLLYWOOD MOVIES (UK)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="BRAT TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f1c25e3a5716e4f31dcf380/f0d4dfd4-f4af-4a1a-aded-3b742b048b7a/Brat-TV-Wordmark-White-%28web%29.png"  group-title="ONLINE--SAMSUNG TV PLUS",BRAT TV (US)
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/Cineview_1000px_new-round.png"   group-title="ONLINE--SAMSUNG TV PLUS",CINEVIEW (UK)
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/Cineview_1000px_new-round.png"   group-title="Movies",CINEVIEW (UK)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="ONLINE--SAMSUNG TV PLUS",CRACKLE (US)
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XITE" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="ONLINE--SAMSUNG TV PLUS",XITE (DE)
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="Music",XITE (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 +++++(PLAYBOXTV BROADBAND)--------
