@@ -168,3 +168,47 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE--LINEAR TV",TBD (US)
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/action_holloywood_circle_1000x1000.png"   group-title="ONLINE--SAMSUNG TV PLUS",ACTION  HOLLYWOOD MOVIES (UK)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="BRAT TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f1c25e3a5716e4f31dcf380/f0d4dfd4-f4af-4a1a-aded-3b742b048b7a/Brat-TV-Wordmark-White-%28web%29.png"  group-title="ONLINE--SAMSUNG TV PLUS",BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/Cineview_1000px_new-round.png"   group-title="ONLINE--SAMSUNG TV PLUS",CINEVIEW (UK)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="CRACKLE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/11/Crackle-Logo.png"  group-title="ONLINE--SAMSUNG TV PLUS",CRACKLE (US)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="ONLINE--SAMSUNG TV PLUS",XITE (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
++++++(PLAYBOXTV BROADBAND)--------
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" group-title="ONLINE--PLAY BOX TV",MANORANJAN MOVIES (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"   group-title="ONLINE--PLAY BOX TV",MANORANJAN TV (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgwhtcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cinema_TV.png"   group-title="ONLINE--PLAY BOX TV",CINEMA TV (IN)
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png"   group-title="ONLINE--PLAY BOX TV",MAHA MOVIES (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/893ccLnZ.png"  group-title="ONLINE--PLAY BOX TV",DANGAL 2 (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png"   group-title="ONLINE--PLAY BOX TV",MUSIC INDIA (IN)
+http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png"  group-title="ONLINE--PLAY BOX TV",9X JALWA (IN)
+http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="ONLINE--PLAY BOX TV",MASTIII (IN)
+http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" group-title="ONLINE--PLAY BOX TV",E24 (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png"  group-title="ONLINE--PLAY BOX TV",DANGAL (IN)
+http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Dd_National_new_logo.png"  group-title="ONLINE--PLAY BOX TV",DD NATIONAL (IN)
+http://longstream-02.ajaah.com/PlayBoxTV/DDNational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNIyy8XmpH_rXz2Q1qeiSkO0IBK5sXDuSuHCpAWUinoyKnQ8vbXhGP1xxCO5BA3bzaqlktK4rjkCdWxShh6Ziub6IMLzZDFNcWHe9rBcAJoLRYCnXgfLWqeCl8q4vJqsA0NizAYcbhQQDFo9T0yHTAxJBxoY0IFqVrvVD72ZOTHOljt6nIpesAlyr3dw/s400/Picsart_22-12-10_16-27-20-439.jpg"  group-title="ONLINE--PLAY BOX TV",DD URDU (IN)
+http://longstream-02.ajaah.com/PlayBoxTV/DDUrdu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png"  group-title="ONLINE--PLAY BOX TV",DD NEWS (IN)
+http://longstream-02.ajaah.com/PlayBoxTV/DDNews/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgwhtcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="ONLINE--PLAY BOX TV",NEWS 24 (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/News24/playlist.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--PLAY BOX TV",DD SPORTS  (IN)
+http://longstream-02.ajaah.com/PlayBoxTV/DDSports/playlist.m3u8
