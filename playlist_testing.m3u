@@ -1,2 +1,24 @@
 #EXTINF:-1, Pop Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1,First Music[768x576]
+http://rtmp.one.by:2200
+#EXTINF:-1,Praise Him Music Network (3ABN)[1280x720]
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1,First Music Channel Bielorrusia[768x576]
+http://95.129.250.139:9981/stream/channelid/1196076926?profile=pass
+#EXTINF:-1,EU Music HD[1920x1080]
+https://cdnua03.hls.tv/69/hls/b24a169eeac8f76b6ff3d1d4854242a7/570/stream.m3u8
+#EXTINF:-1,НАШЕ Music[1920x1080]
+http://cdnua03.hls.tv/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/550/stream.m3u8
+#EXTINF:-1,First Music Channel SD[768x576]
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1,First Music Channel HD[1280x720]
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,UA Music[1920x1080]
+http://lb.wisp.cat/lb0/UA_Music_HD/video.m3u8?token=ssx4VYH
+#EXTINF:-1,MN Music[1280x720]
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1,IBC music[1280x720]
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1,1mus[768x576]
+http://hz1.teleport.cc:80/HLS/SD.m3u8
