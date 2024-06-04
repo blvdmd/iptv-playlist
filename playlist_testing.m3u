@@ -22,3 +22,5 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,1mus[768x576]
 http://hz1.teleport.cc:80/HLS/SD.m3u8
+#EXTINF:-1,Bravo[1024x576]
+http://170.254.18.106/BRAVO/index.m3u8
