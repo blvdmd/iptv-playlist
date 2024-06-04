@@ -24,3 +24,23 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 http://hz1.teleport.cc:80/HLS/SD.m3u8
 #EXTINF:-1,Bravo[1024x576]
 http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1,AMC[1920x1080]
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1,Comedy Central[1280x720]
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,Lifetime[1280x720]
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1,HBO Mundi[1280x720]
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1,HBO Family[1280x720]
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HBO 2[1280x720]
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1,TNT[1920x1080]
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1,ME TV[1922x1080]
+http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+#EXTINF:-1,COZI[1922x1080]
+http://173.225.32.123/Cozi-2358/index.m3u8
+#EXTINF:-1,JACKSON[704x638]
+http://173.225.32.123/JACKSON-2371/index.m3u8
