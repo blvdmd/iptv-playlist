@@ -113,3 +113,29 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,Bloomberg TV+ UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371090
+#EXTINF:-1,|TR| beIN Sports 2 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/195811
+#EXTINF:-1,|TR| beIN Sports 3 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/195812
+#EXTINF:-1,|TR| beIN Sports 4 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/195813
+#EXTINF:-1,|TR| Exxen Spor 1 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/190754
+#EXTINF:-1,TR | UNI BOX OFFICE 1 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371762
+#EXTINF:-1,TR | UNI BOX OFFICE 11 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371763
+#EXTINF:-1,TR | UNI BOX OFFICE 15 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371764
+#EXTINF:-1,TR | UNI BOX OFFICE 17 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371765
+#EXTINF:-1,TR | UNI BOX OFFICE 20 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371766
+#EXTINF:-1,TR | UNI BOX OFFICE 6 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371767
+#EXTINF:-1,TR | UNI BOX OFFICE 8 UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371768
+#EXTINF:-1,TR.FILMBOX 4K UHD
+http://exoplay.xyz:8080/mst5519/mst.67/371791
