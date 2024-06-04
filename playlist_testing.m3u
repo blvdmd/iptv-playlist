@@ -24,5 +24,11 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 http://hz1.teleport.cc:80/HLS/SD.m3u8
 #EXTINF:-1,Kronehit tv HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF: -1 tvg-name="m20 TV" group-title="Italija", m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,XITE TV HD (NL)
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
+#EXTINF:-1,XITE NL HD
+http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1,Xite HD DE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
