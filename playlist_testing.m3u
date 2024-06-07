@@ -193,3 +193,68 @@ http://exoplay.xyz:8080/mst5519/mst.67/426304
 http://exoplay.xyz:8080/mst5519/mst.67/371086
 #EXTINF:-1,Love Nature 4K
 http://exoplay.xyz:8080/mst5519/mst.67/371155
+
+#EXTINF:-1 group-title="Music" tvg-id="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20220323T071808SQUARE.png_20220323071810.png" ,XITE Hits
+https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
+#EXTINF:-1,CBS News National (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1,Wonder
+https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
+#EXTINF:-1,Documentaries - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
+#EXTINF:-1,World War TV
+https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+#EXTINF:-1,History Hit
+https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+#EXTINF:-1,Comedy Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:-1,Moviedome
+https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
+#EXTINF:-1,Sparkle Movies
+https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+#EXTINF:-1,Grjngo - Western Movies
+https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
+#EXTINF:-1,wedo movies
+https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
+#EXTINF:-1,Filmstream
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+#EXTINF:-1,Romance Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:-1,MovieSphere
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+#EXTINF:-1,Popflix
+https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
+#EXTINF:-1,Top Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+#EXTINF:-1,Drama Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:-1,Action Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+#EXTINF:-1,XITE Hits
+https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
+#EXTINF:-1,Wild Planet
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1,Adventure Earth
+https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+#EXTINF:-1,INWILD
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1,WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+#EXTINF:-1,WaterBear
+https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+#EXTINF:-1,CNN FAST
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+#EXTINF:-1,FRANCE 24 FAST
+https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+#EXTINF:-1,NBC News NOW
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:-1,Euronews Live
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1,Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
