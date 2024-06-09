@@ -121,6 +121,26 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="Music-Foreign",Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
+#EXTINF:-1 channel-id="pluto-663cdc85f78a8500090bae4b" tvg-id="663cdc85f78a8500090bae4b" tvg-logo="https://images.pluto.tv/channels/663cdc85f78a8500090bae4b/colorLogoPNG.png" tvg-chno="1501" group-title="Música" , MTV Pride
+https://r.mjh.nz/PlutoTV/663cdc85f78a8500090bae4b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Música" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Música" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Música" , MTV Flow Latino
+https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="Música" , Conciertos por Stingray
+https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Música" , Karaoke por Stingray
+https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+
 #EXTINF:-1 group-title="Funny",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Funny",AFV Family
