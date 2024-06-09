@@ -61,6 +61,9 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="4KTravel.yupp" tvg-name="4KTravel" group-title="All", 4KTravel
+https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/manifest.m3u8?hdnts=st=1717013851~exp=1717017451~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/*!yuppTVCom_5_-1_3ba5f77dd9ad42f3_US_172.183.51.115/payload/yuppTVCom_5_-1_3ba5f77dd9ad42f3_US_172.183.51.115/*~hmac=a135d02a18944e997ca543c9b9203d4e98aa4cac0ddf73ad1c201eada6c4dd9b&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=Life&ads.channel=6457&ads.channel_name=4KTRAVELTV&ads.network_name=yupptv&ads.user=0
+
 
 
 
