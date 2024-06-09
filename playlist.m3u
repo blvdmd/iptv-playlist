@@ -399,3 +399,10 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Sports",Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
+#EXTINF:-1 group-title="Fashion",Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 group-title="Fashion",FashionBox
+http://camera.global-x.ru/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Fashion",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
