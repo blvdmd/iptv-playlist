@@ -127,8 +127,14 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Music-Foreign",ONE Россия HD
 http://rtmp.one.by:2300
-#EXTINF:-1,Retro Music TV
+#EXTINF:-1 group-title="Music-Foreign",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Music-Foreign" tvg-id="" status="online",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music-Foreign" tvg-id="" status="online",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music-Foreign" tvg-id="" status="online",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
@@ -160,11 +166,13 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Funny",AFV Espanol
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Funny",Failarmy International
+#EXTINF:-1 group-title="Funny",Failarmy International NL
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Funny",Failarmy International IN
 http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Funny",FailArmy [SamsungTVPlus]
 https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8
-#EXTINF:-1 group-title="Funny",FailArmy 2[SamsungTVPlus]
+#EXTINF:-1 group-title="Funny",FailArmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="people.awesome" tvg-logo="https://d3k81ch9hvuctc.cloudfront.net/company/HvKcVr/images/82aae7fa-ddf6-4297-a5ed-1486c8a23b89.png" group-title="Funny",People are Awesome
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
@@ -436,3 +444,66 @@ https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.
 http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Fashion",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+
+#EXTINF:-1,Retro Music TV
+http://976948031975276235.0222ofd.xyz:80/play/vi814668/sCRnWdQRBerG/276235.ts
+#EXTINF:-1,Now 80s
+https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+#EXTINF:-1,XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1,Vevo '80s
+https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+#EXTINF:-1,Vevo 90s
+https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:-1,Now Rock
+https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
+#EXTINF:-1,VH1 Rock!
+https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+#EXTINF:-1,XITE Rock on
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:-1,MTV Rocks
+https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+#EXTINF:-1,Vevo Retro Rock
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+#EXTINF:-1,Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
+#EXTINF:-1,Vevo True School Hip Hop
+https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+#EXTINF:-1,VH1 Classic
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+#EXTINF:-1,MTV Classic
+https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
+#EXTINF:-1,Nick Music
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1,Exa TV
+http://138.59.177.34:8000/play/a05a/index.m3u8
+#EXTINF:-1,Mimisica Hits
+http://191.97.60.193:10000/play/a032/index.m3u8
+#EXTINF:-1,Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1,Telehit Musica
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1,Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1,Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1,MTV Party Musica
+https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+#EXTINF:-1,MTV Love Music
+https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
+#EXTINF:-1,MTV 00s
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1,MTV
+http://195.24.89.82/MTV_SD/index.m3u8
+#EXTINF:-1,XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+#EXTINF:-1,XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:-1,Free TV Hits
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+#EXTINF:-1,Vevo 2K
+https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
+#EXTINF:-1,Vevo Pop
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+#EXTINF:-1,Vevo Latino
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
