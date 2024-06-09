@@ -401,6 +401,21 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Sports",Viju+ Sport
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/4w95NZQ.png",Fite 
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/4eAFuKI.png",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Fashion",Fashion & Lifestyle
 https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
 #EXTINF:-1 group-title="Fashion",FashionBox
