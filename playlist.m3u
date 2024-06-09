@@ -354,3 +354,48 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?$9M3840x2160
 https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?$3840x2160
 #EXTINF:-1,Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?$3840x2160
+
+#EXTINF:-1 group-title="Sports",FightBox
+https://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Sports",Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Sports",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Sports",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Sports",MMA-TV
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Sports",Sky Sports 2 NZ
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Sports",Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Sports",Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Sports",Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Sports",Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Sports",Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Sports",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Sports",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Sports",Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Sports",Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Sports",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Sports",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sports",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sports",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sports",TNT Sport 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sports",Viju+ Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
