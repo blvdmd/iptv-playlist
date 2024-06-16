@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="" tvg-id="591" tvg-language="Hindi" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7br8NUaqi0f2qgYrFGFqPumOEvhXV7ouh-w&s",Hindi Movie 
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16568.ts
+
+
 #EXTINF:-1 group-title="Music",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Joo Music
