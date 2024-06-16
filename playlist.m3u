@@ -2,6 +2,8 @@
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7br8NUaqi0f2qgYrFGFqPumOEvhXV7ouh-w&s",Hindi Movie 
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16568.ts
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/1027810641241763840/oA04Vdv2_200x200.jpg",Shemaroo Filmi Gaane 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
 
 #EXTINF:-1 group-title="Music",California Music Channel
