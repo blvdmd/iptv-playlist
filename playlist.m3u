@@ -207,7 +207,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/master/6
 
 
 
-#EXTINF:-1 tvg-id="INBA51000038B" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/INBA51000038B_20220427T054758.png" group-title="Entertainment",Fashion TV
+#EXTINF:-1 tvg-id="INBA51000038B" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/INBA51000038B_20220427T054758.png" group-title="Fashion",Fashion TV
 https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 https://ntv.onrender.com/ott_abr/fashiontvabr
 
@@ -275,11 +275,11 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://www.aokpass.com/images/as-featured-cna-logo.png"  group-title="ONLINE--ENGLISH TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="ONLINE--ENGLISH TV",FTV (ASIA)
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="Fashion",FTV (ASIA)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="ONLINE--ENGLISH TV",FTV (US)
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="Fashion",FTV (US)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="ONLINE--PLUTO TV",FTV (UK)
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="Fashion",FTV (UK)
 https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL NEWS" tvg-logo="https://globalnews.ca/wp-content/uploads/2018/03/new_square-e1647018225390.png"  group-title="ONLINE--ENGLISH TV",GLOBAL NEWS (CA)
@@ -375,7 +375,7 @@ http://longstream-02.ajaah.com/PlayBoxTV/DDSports/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sky Sports F1 UHD
 https://7pal.short.gy/SSF1uhd
 
-#EXTINF:-1,Fashion4K 10M2160[3840*2160]
+#EXTINF:-1 tvg-logo=" "  group-title="Fashion",Fashion4K 10M2160[3840*2160]
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?$7M3840x2160
 #EXTINF:-1,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?$3840x2160
