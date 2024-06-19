@@ -197,10 +197,10 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="4K",Love nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="4KTravel.yupp" tvg-name="4KTravel" group-title="All", 4KTravel
+#EXTINF:-1 tvg-id="4KTravel.yupp" tvg-name="4KTravel" group-title="4K", 4KTravel
 https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/manifest.m3u8?hdnts=st=1717013851~exp=1717017451~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/*!yuppTVCom_5_-1_3ba5f77dd9ad42f3_US_172.183.51.115/payload/yuppTVCom_5_-1_3ba5f77dd9ad42f3_US_172.183.51.115/*~hmac=a135d02a18944e997ca543c9b9203d4e98aa4cac0ddf73ad1c201eada6c4dd9b&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=Life&ads.channel=6457&ads.channel_name=4KTRAVELTV&ads.network_name=yupptv&ads.user=0
 
 
@@ -237,9 +237,9 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/m
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="ONLINE--HINDI TV",ABP NEWS (IN)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg"  group-title="ONLINE--HINDI TV",BOLLYWOOD HD (RU)
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg"  group-title="Movies",BOLLYWOOD HD (RU)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"  group-title="ONLINE--HINDI TV",BOLLYWOOD CLASSIC HD (RU)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"  group-title="Movies",BOLLYWOOD CLASSIC HD (RU)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Dd_National_new_logo.png"  group-title="ONLINE--HINDI TV",DD NATIONAL (IN)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
@@ -377,15 +377,17 @@ https://7pal.short.gy/SSF1uhd
 
 #EXTINF:-1 tvg-logo=" "  group-title="Fashion",Fashion4K 10M2160[3840*2160]
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?$7M3840x2160
-#EXTINF:-1,LOVE NATURE 4K
+#EXTINF:-1 tvg-logo=" "  group-title="4K",Fashion4K 10M2160[3840*2160]
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?$7M3840x2160
+#EXTINF:-1 group-title="4K",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?$3840x2160
-#EXTINF:-1,Love Nature 4K
+#EXTINF:-1 group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=&$3840x2160
-#EXTINF:-1,Loupe 4K
+#EXTINF:-1 group-title="4K",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?$9M3840x2160
-#EXTINF:-1,Fireplace 4K
+#EXTINF:-1 group-title="4K",Fireplace 4K
 https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?$3840x2160
-#EXTINF:-1,Clarity 4K (2160p)
+#EXTINF:-1 group-title="4K",Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?$3840x2160
 
 #EXTINF:-1 group-title="Sports",FightBox
@@ -608,67 +610,67 @@ http://camera.global-x.ru/FashionBox/index.m3u8
 #EXTINF:-1 group-title="Fashion",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
-#EXTINF:-1,Retro Music TV
+#EXTINF:-1 group-title="Music-Foreign",Retro Music TV
 http://976948031975276235.0222ofd.xyz:80/play/vi814668/sCRnWdQRBerG/276235.ts
-#EXTINF:-1,Now 80s
+#EXTINF:-1 group-title="Music-Foreign",Now 80s
 https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
-#EXTINF:-1,XITE 80s Flashback
+#EXTINF:-1 group-title="Music-Foreign",XITE 80s Flashback
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
-#EXTINF:-1,Vevo '80s
+#EXTINF:-1 group-title="Music-Foreign",Vevo '80s
 https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-#EXTINF:-1,Vevo 90s
+#EXTINF:-1 group-title="Music-Foreign",Vevo 90s
 https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-#EXTINF:-1,Now Rock
+#EXTINF:-1 group-title="Music-Foreign",Now Rock
 https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
-#EXTINF:-1,VH1 Rock!
+#EXTINF:-1 group-title="Music-Foreign",VH1 Rock!
 https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
-#EXTINF:-1,XITE Rock on
+#EXTINF:-1 group-title="Music-Foreign",XITE Rock on
 https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1 group-title="Music-Foreign",MTV Rocks
 https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
-#EXTINF:-1,Vevo Retro Rock
+#EXTINF:-1 group-title="Music-Foreign",Vevo Retro Rock
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
-#EXTINF:-1,Yo! MTV Raps Classic
+#EXTINF:-1 group-title="Music-Foreign",Yo! MTV Raps Classic
 https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
-#EXTINF:-1,Vevo True School Hip Hop
+#EXTINF:-1 group-title="Music-Foreign",Vevo True School Hip Hop
 https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1 group-title="Music-Foreign",VH1 Classic
 https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 group-title="Music-Foreign",MTV Classic
 https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
-#EXTINF:-1,Nick Music
+#EXTINF:-1 group-title="Music-Foreign",Nick Music
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1,Exa TV
+#EXTINF:-1 group-title="Music-Foreign",Exa TV
 http://138.59.177.34:8000/play/a05a/index.m3u8
-#EXTINF:-1,Mimisica Hits
+#EXTINF:-1 group-title="Music-Foreign",Mimisica Hits
 http://191.97.60.193:10000/play/a032/index.m3u8
-#EXTINF:-1,Mix Music Channel
+#EXTINF:-1 group-title="Music-Foreign",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
-#EXTINF:-1,Telehit Musica
+#EXTINF:-1 group-title="Music-Foreign",Telehit Musica
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1,Telehit
+#EXTINF:-1 group-title="Music-Foreign",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1,Bandamax
+#EXTINF:-1 group-title="Music-Foreign",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1,MTV Party Musica
+#EXTINF:-1 group-title="Music-Foreign",MTV Party Musica
 https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
-#EXTINF:-1,MTV Love Music
+#EXTINF:-1 group-title="Music-Foreign",MTV Love Music
 https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 group-title="Music-Foreign",MTV 00s
 http://195.24.89.82/VH1_SD/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="Music-Foreign",MTV
 http://195.24.89.82/MTV_SD/index.m3u8
-#EXTINF:-1,XITE Hits
+#EXTINF:-1 group-title="Music-Foreign",XITE Hits
 https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
-#EXTINF:-1,XITE Nuevo Latino
+#EXTINF:-1 group-title="Music-Foreign",XITE Nuevo Latino
 https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-#EXTINF:-1,Free TV Hits
+#EXTINF:-1 group-title="Music-Foreign",Free TV Hits
 https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
-#EXTINF:-1,Vevo 2K
+#EXTINF:-1 group-title="Music-Foreign",Vevo 2K
 https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
-#EXTINF:-1,Vevo Pop
+#EXTINF:-1 group-title="Music-Foreign",Vevo Pop
 https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-#EXTINF:-1,Vevo Latino
+#EXTINF:-1 group-title="Music-Foreign",Vevo Latino
 https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
 
 
