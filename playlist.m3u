@@ -1,48 +1,48 @@
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="" tvg-id="591" tvg-language="Hindi" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7br8NUaqi0f2qgYrFGFqPumOEvhXV7ouh-w&s",Hindi Movie 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7br8NUaqi0f2qgYrFGFqPumOEvhXV7ouh-w&s",Hindi Movie 
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16568.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/1027810641241763840/oA04Vdv2_200x200.jpg",Shemaroo Filmi Gaane 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1  group-title="Music",MTV Japan
+#EXTINF:-1  group-title="Music-Foreign",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
 
-#EXTINF:-1 group-title="Music",California Music Channel
+#EXTINF:-1 group-title="Music-Foreign",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="587" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/INBC28000122W_20220928T010039.png" group-title="Music",9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Music",Hit List
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Music-Foreign",Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=GsaL4HnQmtRsNmJUV1Wh&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
 #EXTINF:-1 tvg-id="440" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/INBC2800013L6_20220928T010036.png" group-title="Music",9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="441" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/INBC28000144H_20220928T010037.png" group-title="Music",9X Jhakaas
 https://ntv.onrender.com/9x.jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/be885265-dcca-4550-9ee9-f38aa2d7e49d/Stingray-Euro-Hits_logo_darkrdxwhite.png" group-title="Music",Euro Hits
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/be885265-dcca-4550-9ee9-f38aa2d7e49d/Stingray-Euro-Hits_logo_darkrdxwhite.png" group-title="Music-Foreign",Euro Hits
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Music" , XITE Hits
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Music-Foreign" , XITE Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/73c31029-967e-496f-a175-4e49112b4da1/stingray-greatest-hits_logo_dark.png" group-title="Music",Greatest Hits
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/73c31029-967e-496f-a175-4e49112b4da1/stingray-greatest-hits_logo_dark.png" group-title="Music-Foreign",Greatest Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=GsaL4HnQmtRsNmJUV1Wh&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Music",Hit List
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/b3706497-4073-4dfb-bd89-a798459f0348/stingray-hit-list_logo_dark.png" group-title="Music-Foreign",Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=GsaL4HnQmtRsNmJUV1Wh&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
-#EXTINF:-1 tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" group-title="Music" , Vevo Pop
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" group-title="Music-Foreign" , Vevo Pop
 https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music" , Vevo '80s
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music-Foreign" , Vevo '80s
 https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-#EXTINF:-1  tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music" , Vevo '90s
+#EXTINF:-1  tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music-Foreign" , Vevo '90s
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d74f6b58-d1e2-4601-9f6b-c803bd0b4cfb/Stingray_Nothin_but_the_90s_logo_darkrdx.png" group-title="Music",Nothin' But 90s
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d74f6b58-d1e2-4601-9f6b-c803bd0b4cfb/Stingray_Nothin_but_the_90s_logo_darkrdx.png" group-title="Music-Foreign",Nothin' But 90s
 https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="Music",Everything ‘80s 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="Music-Foreign",Everything ‘80s 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=GsaL4HnQmtRsNmJUV1Wh&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
-#EXTINF:-1 tvg-id="XITE" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="Music",XITE (DE)
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="Music-Foreign",XITE (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg"  group-title="Music",V2BEAT (UK)
+#EXTINF:-1 tvg-id="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg"  group-title="Music-Foreign",V2BEAT (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
 
@@ -146,26 +146,26 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music-Foreign" tvg-id="" status="online",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Music", Music Legends
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Music-Foreign", Music Legends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
-#EXTINF:-1 channel-id="pluto-663cdc85f78a8500090bae4b" tvg-id="663cdc85f78a8500090bae4b" tvg-logo="https://images.pluto.tv/channels/663cdc85f78a8500090bae4b/colorLogoPNG.png" tvg-chno="1501" group-title="Music" , MTV Pride
+#EXTINF:-1 channel-id="pluto-663cdc85f78a8500090bae4b" tvg-id="663cdc85f78a8500090bae4b" tvg-logo="https://images.pluto.tv/channels/663cdc85f78a8500090bae4b/colorLogoPNG.png" tvg-chno="1501" group-title="Music-Foreign" , MTV Pride
 https://r.mjh.nz/PlutoTV/663cdc85f78a8500090bae4b-alt.m3u8
 #EXTINF:-1 group-title="4K",Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Music" , MTV Biggest Pop
+#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Music-Foreign" , MTV Biggest Pop
 https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Music" , MTV Spankin' New
+#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Music-Foreign" , MTV Spankin' New
 https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Music" , MTV Flow Latino
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Music-Foreign" , MTV Flow Latino
 https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="Music" , Conciertos por Stingray
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="Music-Foreign" , Conciertos por Stingray
 https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Music" , Karaoke por Stingray
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Music-Foreign" , Karaoke por Stingray
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 #EXTINF:-1 group-title="Funny",AFV Family
@@ -862,7 +862,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549686/1132505795.png",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629104/1147047997.png",Telehit Musica
+#EXTINF:-1 group-title="Music-Foreign" tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629104/1147047997.png",Telehit Musica
 http://170.254.18.106/TELEHIT/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939033.png",ZooM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
