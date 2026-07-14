@@ -56,3 +56,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://starcius-cinema.com/11581/index.m3u8?token=010101010101
 #EXTINF:-1 group-title="Music-Foreign",FON Music HD
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in@4KHDR"  group-title="Travel",Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@HD"  group-title="Travel",Travelxp HD (1080p) [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
