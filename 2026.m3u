@@ -57,6 +57,9 @@ http://starcius-cinema.com/11581/index.m3u8?token=010101010101
 #EXTINF:-1 group-title="Music-Foreign",FON Music HD
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Music-Foreign",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR"  group-title="Travel",Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD"  group-title="Travel",Travelxp HD (1080p) [Geo-blocked]
