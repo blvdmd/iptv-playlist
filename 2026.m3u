@@ -70,24 +70,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  tvg-logo="" tvg-language="Hindi" group-title="Music",Deewana SD
 https://github.com/tplaylive/stream/raw/refs/heads/main/originals/deewana/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music-Foreign",Oxygen Music
-https://github.com/tplaylive/stream/raw/refs/heads/main/originals/oxygen-music/index.m3u8
-#EXTINF:-1 group-title="Music",Indian Music
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music.index.m3u8
+
 #EXTINF:-1 group-title="Music",Indian Music 2
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music2.index.m3u8
-#EXTINF:-1 group-title="Music",Indian Music 3
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music3.index.m3u8
 #EXTINF:-1 group-title="Music-Foreign",World Music 1
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music.index.m3u8
 #EXTINF:-1 group-title="Music-Foreign",World Music 2
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music2.index.m3u8
-#EXTINF:-1 group-title="Music-Foreign",World Music 3
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music3.index.m3u8
-#EXTINF:-1 group-title="Music-Foreign",Arabic Music
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/arabic-music.index.m3u8
-#EXTINF:-1 group-title="Music",T-Series Music HD
-https://github.com/tplaylive/stream/raw/refs/heads/main/tplay/playout/210427/master.m3u8
+
 
 #EXTINF:-1 tvg-chno="90" tvg-name="Goldmines" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -100,18 +90,3 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="99" tvg-name="Bollywood Movies" group-title="Movies", Bollywood Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Dubbed Bollywood" group-title="Movies",Dubbed Bollywood
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Hindi Bollywood" group-title="Movies",Hindi Bollywood
-https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Best Movies" group-title="Movies",Best Movies
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Classic Movies" group-title="Movies",Classic Movies
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_CLASSIC_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f5ab846-bcf0-47aa-b578-70054f98f2f1/manifest.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Drama Movies" group-title="Movies",Drama Movies
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-name="Thriller Movies" group-title="Movies",Thriller Movies
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
