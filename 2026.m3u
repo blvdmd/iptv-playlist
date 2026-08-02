@@ -68,3 +68,44 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-language="Hindi" group-title="Music",Music Mastii
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Movies",Bollywood Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1 group-title="Movies",Dubbed Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1 group-title="Movies",Hindi Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
+
+#EXTINF:-1 group-title="Movies",Best Action Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
+#EXTINF:-1 group-title="Movies",Best Classic Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
+#EXTINF:-1 group-title="Movies",Best Drama Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
+#EXTINF:-1 group-title="Movies",Best Thriller Movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
+
+
+#EXTINF:-1  tvg-logo="" tvg-language="Hindi" group-title="Music",Deewana SD
+https://github.com/tplaylive/stream/raw/refs/heads/main/originals/deewana/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music-Foreign",Oxygen Music
+https://github.com/tplaylive/stream/raw/refs/heads/main/originals/oxygen-music/index.m3u8
+
+#EXTINF:-1 group-title="Music",Indian Music
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music.index.m3u8
+#EXTINF:-1 group-title="Music",Indian Music 2
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music2.index.m3u8
+#EXTINF:-1 group-title="Music",Indian Music 3
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music3.index.m3u8
+#EXTINF:-1 group-title="Music-Foreign",World Music 1
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music.index.m3u8
+#EXTINF:-1 group-title="Music-Foreign",World Music 2
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music2.index.m3u8
+#EXTINF:-1 group-title="Music-Foreign",World Music 3
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music3.index.m3u8
+#EXTINF:-1 group-title="Music-Foreign",Arabic Music
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/arabic-music.index.m3u8
+
+#EXTINF:-1 group-title="Music",Bolly Music HD
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/music/wind-of-change/index.m3u8
+#EXTINF:-1 group-title="Music",T-Series Music HD
+https://github.com/tplaylive/stream/raw/refs/heads/main/tplay/playout/210427/master.m3u8
