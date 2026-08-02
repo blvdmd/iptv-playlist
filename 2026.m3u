@@ -89,29 +89,29 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/arabic-music.i
 #EXTINF:-1 group-title="Music",T-Series Music HD
 https://github.com/tplaylive/stream/raw/refs/heads/main/tplay/playout/210427/master.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-name="Goldmines" group-title="Movie",Goldmines
+#EXTINF:-1 tvg-chno="90" tvg-name="Goldmines" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-name="Goldmines 2" group-title="Movie",Goldmines 2
+#EXTINF:-1 tvg-chno="91" tvg-name="Goldmines 2" group-title="Movies",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-name="Goldmines Movies" group-title="Movie",Goldmines Movies
+#EXTINF:-1 tvg-chno="92" tvg-name="Goldmines Movies" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Movie",Shemaroo Bollywood
+#EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie", bollywood-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Bollywood Movies" group-title="Movies", Bollywood Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1 group-title="Movie", dubbed-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Dubbed Bollywood" group-title="Movies",Dubbed Bollywood
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1 group-title="Movie", hindi-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Hindi Bollywood" group-title="Movies",Hindi Bollywood
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
-#EXTINF:-1 group-title="Movie", best-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Best Movies" group-title="Movies",Best Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
-#EXTINF:-1 group-title="Movie", classic-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Classic Movies" group-title="Movies",Classic Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
-#EXTINF:-1 group-title="Movie", drama-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Drama Movies" group-title="Movies",Drama Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
 #EXTINF:-1 group-title="Movie", thriller-movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
