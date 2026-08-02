@@ -75,7 +75,7 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-m
 #EXTINF:-1 group-title="Movies",Hindi Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
 
-#EXTINF:-1 group-title="Movies",Best Action Movies
+#EXTINF:-1 group-title="Movies",Best Action
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
 #EXTINF:-1 group-title="Movies",Best Classic Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
@@ -83,13 +83,10 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
 #EXTINF:-1 group-title="Movies",Best Thriller Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
-
-
 #EXTINF:-1  tvg-logo="" tvg-language="Hindi" group-title="Music",Deewana SD
 https://github.com/tplaylive/stream/raw/refs/heads/main/originals/deewana/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music-Foreign",Oxygen Music
 https://github.com/tplaylive/stream/raw/refs/heads/main/originals/oxygen-music/index.m3u8
-
 #EXTINF:-1 group-title="Music",Indian Music
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/indian-music.index.m3u8
 #EXTINF:-1 group-title="Music",Indian Music 2
@@ -104,8 +101,5 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music2.i
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music3.index.m3u8
 #EXTINF:-1 group-title="Music-Foreign",Arabic Music
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/arabic-music.index.m3u8
-
-#EXTINF:-1 group-title="Music",Bolly Music HD
-https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/music/wind-of-change/index.m3u8
 #EXTINF:-1 group-title="Music",T-Series Music HD
 https://github.com/tplaylive/stream/raw/refs/heads/main/tplay/playout/210427/master.m3u8
