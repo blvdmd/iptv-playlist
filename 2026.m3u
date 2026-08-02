@@ -68,20 +68,20 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-language="Hindi" group-title="Music",Music Mastii
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Movies",Bollywood Movies
+#EXTINF:-1 group-title="Movies-New",Bollywood Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1 group-title="Movies",Dubbed Movies
+#EXTINF:-1 group-title="Movies-New",Dubbed Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1 group-title="Movies",Hindi Movies
+#EXTINF:-1 group-title="Movies-New",Hindi Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
 
-#EXTINF:-1 group-title="Movies",Best Action
+#EXTINF:-1 group-title="Movies-New",Best Action
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
-#EXTINF:-1 group-title="Movies",Best Classic Movies
+#EXTINF:-1 group-title="Movies-New",Best Classic Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
-#EXTINF:-1 group-title="Movies",Best Drama Movies
+#EXTINF:-1 group-title="Movies-New",Best Drama Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
-#EXTINF:-1 group-title="Movies",Best Thriller Movies
+#EXTINF:-1 group-title="Movies-New",Best Thriller Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
 #EXTINF:-1  tvg-logo="" tvg-language="Hindi" group-title="Music",Deewana SD
 https://github.com/tplaylive/stream/raw/refs/heads/main/originals/deewana/index.m3u8
