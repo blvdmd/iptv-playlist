@@ -68,20 +68,6 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-language="Hindi" group-title="Music",Music Mastii
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Movie", bollywood-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1 group-title="Movie", dubbed-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1 group-title="Movie", hindi-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
-#EXTINF:-1 group-title="Movie", best-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
-#EXTINF:-1 group-title="Movie", classic-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
-#EXTINF:-1 group-title="Movie", drama-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
-#EXTINF:-1 group-title="Movie", thriller-movies
-https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
 #EXTINF:-1  tvg-logo="" tvg-language="Hindi" group-title="Music",Deewana SD
 https://github.com/tplaylive/stream/raw/refs/heads/main/originals/deewana/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music-Foreign",Oxygen Music
@@ -102,3 +88,30 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/world-music3.i
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/music/arabic-music.index.m3u8
 #EXTINF:-1 group-title="Music",T-Series Music HD
 https://github.com/tplaylive/stream/raw/refs/heads/main/tplay/playout/210427/master.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-name="Goldmines" group-title="Movie",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-chno="91" tvg-name="Goldmines 2" group-title="Movie",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-name="Goldmines Movies" group-title="Movie",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Movie",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", bollywood-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1 group-title="Movie", dubbed-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1 group-title="Movie", hindi-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/playlist/movies/hindi-movies.index.m3u8
+#EXTINF:-1 group-title="Movie", best-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3u8
+#EXTINF:-1 group-title="Movie", classic-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
+#EXTINF:-1 group-title="Movie", drama-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
+#EXTINF:-1 group-title="Movie", thriller-movies
+https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
