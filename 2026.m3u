@@ -113,5 +113,5 @@ https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-action.m3
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-classics.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-name="Drama Movies" group-title="Movies",Drama Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-drama.m3u8
-#EXTINF:-1 group-title="Movie", thriller-movies
+#EXTINF:-1 tvg-chno="99" tvg-name="Thriller Movies" group-title="Movies",Thriller Movies
 https://github.com/tplaylive/stream/raw/refs/heads/main/out/movie/best-thriller.m3u8
