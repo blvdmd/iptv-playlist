@@ -90,3 +90,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3YdvCy2P/deewana-removebg-preview-removebg-preview.png" tvg-language="Hindi" group-title="Music",Youtube
+https://www.youtube.com/watch?v=402NalrDI94
